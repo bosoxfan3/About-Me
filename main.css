@@ -1,0 +1,12 @@
+header {text-align:center;}
+.downsize {width: 150px;
+border-radius: 50%;}
+h3 {font-style:bold;}
+img {padding-bottom: 25px;}
+section {width: 650px;}
+main {
+padding-left: 50px;
+padding-right: 50px;
+margin-left: auto;
+margin-right: auto;
+width: 100%;}
